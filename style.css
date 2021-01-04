@@ -69,6 +69,7 @@ p{
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
 }
-.ftr{
+footer{
 text-align: center;
+font-size: 18px;
 }
