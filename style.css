@@ -73,3 +73,16 @@ footer{
 text-align: center;
 font-size: 18px;
 }
+.footer-area {
+    /* border: 10px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ftr-icon a{
+    text-decoration: none;
+}
+.ftr-icon i{
+    margin-left: 10px ;
+    color: rgb(0, 0, 0);
+}
